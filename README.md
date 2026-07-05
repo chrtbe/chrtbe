@@ -107,6 +107,6 @@ A Visual Studio Code extension that turns the currently open C# file into an int
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/chrtbe/chrtbe/blob/output/snake.svg%20dist/snake.svg" width="800"/>
+  <img src="https://github.com/chrtbe/chrtbe/blob/output/snake.svg" width="800"/>
 </p>
 
