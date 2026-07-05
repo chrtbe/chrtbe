@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...<img width="2880" height="1620" alt="um5jkc674tl829qo0nt74hs61byn" src="https://github.com/user-attachments/assets/166e873e-9135-4ab5-beec-d5d73b956a2d" />
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -36,7 +37,7 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 
 ### Plantly
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/5181e9e1-fbb5-49a6-9ec7-7c86aa15414a" />
+<img width="2880" height="1620" alt="um5jkc674tl829qo0nt74hs61byn" src="https://github.com/user-attachments/assets/8661ec08-dd08-4bd2-abc9-f0e2d2f150b4" />
 
 Keeping houseplants alive and thriving can be a challenge. With different watering schedules, sunlight requirements, and unexpected issues, it’s easy to lose track. Plantly is designed to help plant lovers stay organized and ensure their plants get the care they need.
 With personalized schedules, growth tracking, and a vast plant database, taking care of your houseplants has never been easier.
@@ -45,7 +46,7 @@ With personalized schedules, growth tracking, and a vast plant database, taking 
 
 ### Flatmate
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/6e07591b-ef6a-4967-9c1a-183c09ef8dd9" />
+<img width="2880" height="1620" alt="24v8wsuuhraemsienl6d7muczrhe" src="https://github.com/user-attachments/assets/53e39f38-32d1-4ccb-b82c-5f0247dcca57" />
 
 Remember that awkward silence when you walk into your shared apartment and everyone's staring? We've all heard the horror stories about flatmate disagreements and forgotten chores. Inspired by those less-than-ideal experiences, and believing there had to be a better way than what Lily Asshauer and Christine Bell might have faced, we developed Flatmate – the ultimate solution for drama-free shared living.
 
