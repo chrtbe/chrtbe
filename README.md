@@ -35,10 +35,11 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 
 ## Projects
 
+<h3>Plantly</h3>
+
 <div style="display:flex; flex-direction:row; gap:20px; align-items:flex-start;">
   <img src="https://github.com/user-attachments/assets/8661ec08-dd08-4bd2-abc9-f0e2d2f150b4" width="200"/>
   <div>
-    <h3>Plantly</h3>
      <p>Keeping houseplants alive and thriving can be a challenge. With different watering schedules, sunlight requirements, and unexpected issues, it’s easy to lose track. Plantly is designed to help plant lovers stay organized and ensure their plants get the care they need.</p>   
       <br><br>
       With personalized schedules, growth tracking, and a vast plant database, taking care of your houseplants has never been easier.
@@ -47,20 +48,22 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
   </div>
 </div>
 
+<h3>Flatmate</h3>
+
 <div style="display:flex; flex-direction:row; gap:20px; align-items:flex-start;">
   <img width="200" alt="24v8wsuuhraemsienl6d7muczrhe" src="https://github.com/user-attachments/assets/53e39f38-32d1-4ccb-b82c-5f0247dcca57" />
   <div>
-      <h3>Flatmate</h3>
      <p>Remember that awkward silence when you walk into your shared apartment and everyone's staring? We've all heard the horror stories about flatmate disagreements and forgotten chores. Inspired by those less-than-ideal experiences, and believing there had to be a better way than what Lily Asshauer and Christine Bell might have faced, we developed Flatmate – the ultimate solution for drama-free shared living.</p>
       <br><br>
       <a href="portfolio.fh-salzburg.ac.at/projects/2025-flatmate">Flatmate</a>
   </div>
 </div>
 
+<h3>Mileva</h3>
+
 <div style="display:flex; flex-direction:row; gap:20px; align-items:flex-start;">
   <img width="200" alt="Frame 201" src="https://github.com/user-attachments/assets/3e52fab4-3820-4448-9b74-5caada74a74f" />
   <div>
-     <h3>Mileva</h3>
      <p>Learn through interactive and playful experiences—find the ideal time to study and bring out the best in yourself!</p>
       <br><br>
       <a href="portfolio.fh-salzburg.ac.at/projects/2026-mileva">Flatmate</a>
@@ -70,10 +73,11 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
   </div>
 </div>
 
+<h3>C# Visualizer</h3>
+
 <div style="display:flex; flex-direction:row; gap:20px; align-items:flex-start;">
   <img width="200" alt="Frame 201" src="https://github.com/user-attachments/assets/3e52fab4-3820-4448-9b74-5caada74a74f" />
   <div>
-     <h3>C# Visualizer</h3>
      <p>C# Visualizer is a Visual Studio Code extension that turns the currently open C# file into an interactive structure graph. It is designed to help you inspect code organization, follow control flow at a high level, and move quickly between the graph and the editor.</p>
       <br><br>
       <a href="https://marketplace.visualstudio.com/items?itemName=ChristineBell.csharpvisualizer">Marketplace</a>
