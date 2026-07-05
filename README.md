@@ -74,15 +74,18 @@ Learn through interactive and playful experiences—find the ideal time to study
       <a href="https://play.google.com/store/apps/details?id=com.fhs50537.Mileva">Play Store</a>
     </td>
   </tr>
-</table>
-
-### C# Visualizer
-
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/bbeef4f2-439b-42c3-9821-0a8f1c46242d" />
-
+   <tr>
+    <td width="220">
+      <img width="200" alt="image" src="https://github.com/user-attachments/assets/bbeef4f2-439b-42c3-9821-0a8f1c46242d" />
+    </td>
+    <td>
+      <h3>C# Visualizer</h3>
 C# Visualizer is a Visual Studio Code extension that turns the currently open C# file into an interactive structure graph. It is designed to help you inspect code organization, follow control flow at a high level, and move quickly between the graph and the editor.
-
-[Marketplace](https://marketplace.visualstudio.com/items?itemName=ChristineBell.csharpvisualizer)
+      <br><br>
+      <a href="https://marketplace.visualstudio.com/items?itemName=ChristineBell.csharpvisualizer">Marketplace</a>
+    </td>
+  </tr>
+</table>
 
 ## A Bit About Me
 
