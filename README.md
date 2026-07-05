@@ -1,7 +1,11 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=ff00f7&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I'm+Christine+Bell;Full-Stack+Developer;Always+building+something+cool.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github.com/chrtbe/chrtbe/blob/output/snake.svg" width="800"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chrtbe/chrtbe/output/snake-dark.svg">
+
+    <img src="https://raw.githubusercontent.com/chrtbe/chrtbe/output/snake.svg" width="800">
+  </picture>
 </p>
 
 I'm Christine, a software engineer based in Austria.
