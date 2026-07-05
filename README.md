@@ -104,7 +104,7 @@ A Visual Studio Code extension that turns the currently open C# file into an int
 - 📖 Into reading and drawing
 - 🗯️ I like riddles and small games like Sudoku
 
-## 🐍 Contributions
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/chrtbe/chrtbe/output/snake.svg" width="800"/>
