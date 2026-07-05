@@ -59,7 +59,7 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 <h3>Mileva</h3>
 
 <div style="display:flex; flex-direction:row; gap:20px; align-items:flex-start;">
-  <img width="200" alt="Frame 201" src="https://github.com/user-attachments/assets/3e52fab4-3820-4448-9b74-5caada74a74f" />
+  <img width="220" alt="Frame 201" src="https://github.com/user-attachments/assets/3e52fab4-3820-4448-9b74-5caada74a74f" />
   <div>
      <p>Learn through interactive and playful experiences—find the ideal time to study and bring out the best in yourself!</p>
       <a href="portfolio.fh-salzburg.ac.at/projects/2026-mileva">Flatmate</a>
