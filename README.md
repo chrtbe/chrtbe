@@ -36,6 +36,8 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 
 ### Plantly
 
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/5181e9e1-fbb5-49a6-9ec7-7c86aa15414a" />
+
 Keeping houseplants alive and thriving can be a challenge. With different watering schedules, sunlight requirements, and unexpected issues, it’s easy to lose track. Plantly is designed to help plant lovers stay organized and ensure their plants get the care they need.
 With personalized schedules, growth tracking, and a vast plant database, taking care of your houseplants has never been easier.
 
@@ -43,11 +45,15 @@ With personalized schedules, growth tracking, and a vast plant database, taking 
 
 ### Flatmate
 
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/6e07591b-ef6a-4967-9c1a-183c09ef8dd9" />
+
 Remember that awkward silence when you walk into your shared apartment and everyone's staring? We've all heard the horror stories about flatmate disagreements and forgotten chores. Inspired by those less-than-ideal experiences, and believing there had to be a better way than what Lily Asshauer and Christine Bell might have faced, we developed Flatmate – the ultimate solution for drama-free shared living.
 
 [Flatmate](https://portfolio.fh-salzburg.ac.at/projects/2025-flatmate)
 
 ### Mileva
+
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/c5242a9d-6763-47fd-8233-4ce2b6da151f" />
 
 Learn through interactive and playful experiences—find the ideal time to study and bring out the best in yourself!
 
@@ -57,6 +63,8 @@ Learn through interactive and playful experiences—find the ideal time to study
 [Playstore](https://play.google.com/store/apps/details?id=com.fhs50537.Mileva)
 
 ### C# Visualizer
+
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/bbeef4f2-439b-42c3-9821-0a8f1c46242d" />
 
 C# Visualizer is a Visual Studio Code extension that turns the currently open C# file into an interactive structure graph. It is designed to help you inspect code organization, follow control flow at a high level, and move quickly between the graph and the editor.
 
