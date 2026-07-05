@@ -32,7 +32,7 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 
 <p align="center">
   <a href="https://portfolio.fh-salzburg.ac.at/projects/2025-plantly">
-    <img src="https://github.com/user-attachments/assets/8661ec08-dd08-4bd2-abc9-f0e2d2f150b4" width="900">
+    <img src="https://github.com/user-attachments/assets/8661ec08-dd08-4bd2-abc9-f0e2d2f150b4" width="700">
   </a>
 </p>
 
