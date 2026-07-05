@@ -32,7 +32,7 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 
 <p align="center">
   <a href="https://portfolio.fh-salzburg.ac.at/projects/2025-plantly">
-    <img src="https://github.com/user-attachments/assets/8661ec08-dd08-4bd2-abc9-f0e2d2f150b4" width="700">
+    <img src="https://github.com/user-attachments/assets/8661ec08-dd08-4bd2-abc9-f0e2d2f150b4" width="600">
   </a>
 </p>
 
@@ -48,7 +48,7 @@ Keeping houseplants alive and thriving can be a challenge. With different wateri
 
 <p align="center">
   <a href="https://portfolio.fh-salzburg.ac.at/projects/2025-flatmate">
-    <img src="https://github.com/user-attachments/assets/53e39f38-32d1-4ccb-b82c-5f0247dcca57" width="900">
+    <img src="https://github.com/user-attachments/assets/53e39f38-32d1-4ccb-b82c-5f0247dcca57" width="600">
   </a>
 </p>
 
@@ -64,7 +64,7 @@ Remember that awkward silence when you walk into your shared apartment and every
 
 <p align="center">
   <a href="https://portfolio.fh-salzburg.ac.at/projects/2026-mileva">
-    <img src="https://github.com/user-attachments/assets/3e52fab4-3820-4448-9b74-5caada74a74f" width="900">
+    <img src="https://github.com/user-attachments/assets/3e52fab4-3820-4448-9b74-5caada74a74f" width="600">
   </a>
 </p>
 
