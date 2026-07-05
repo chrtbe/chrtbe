@@ -23,8 +23,6 @@ I also use Figma for UI & UX Design and Prototyping using my own Components and 
 
 This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is build from scratch, no copypaste templates.
 
----
-
 ## Tools & Tech
 
 - HTML, CSS, Tailwind
@@ -33,8 +31,6 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 - Ruby on Rails, Java, C#, Kotlin, Python
 - R3F for integrating 3D models
 - Figma
-
----
 
 ## A Bit About Me
 
