@@ -32,6 +32,34 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 - R3F for integrating 3D models
 - Figma
 
+## Projects
+
+### Plantly
+
+Keeping houseplants alive and thriving can be a challenge. With different watering schedules, sunlight requirements, and unexpected issues, it’s easy to lose track. Plantly is designed to help plant lovers stay organized and ensure their plants get the care they need.
+With personalized schedules, growth tracking, and a vast plant database, taking care of your houseplants has never been easier.
+
+https://portfolio.fh-salzburg.ac.at/projects/2025-plantly
+
+### Flatmate
+
+Remember that awkward silence when you walk into your shared apartment and everyone's staring? We've all heard the horror stories about flatmate disagreements and forgotten chores. Inspired by those less-than-ideal experiences, and believing there had to be a better way than what Lily Asshauer and Christine Bell might have faced, we developed Flatmate – the ultimate solution for drama-free shared living.
+
+https://portfolio.fh-salzburg.ac.at/projects/2025-flatmate
+
+### Mileva
+
+Learn through interactive and playful experiences—find the ideal time to study and bring out the best in yourself!
+
+https://portfolio.fh-salzburg.ac.at/projects/2026-mileva
+https://play.google.com/store/apps/details?id=com.fhs50537.Mileva
+
+### C# Visualizer
+
+C# Visualizer is a Visual Studio Code extension that turns the currently open C# file into an interactive structure graph. It is designed to help you inspect code organization, follow control flow at a high level, and move quickly between the graph and the editor.
+
+https://marketplace.visualstudio.com/items?itemName=ChristineBell.csharpvisualizer
+
 ## A Bit About Me
 
 - 🐈 I love cats
