@@ -76,7 +76,7 @@ Learn through interactive and playful experiences—find the ideal time to study
   </tr>
    <tr>
     <td width="220">
-      <img width="200" alt="image" src="https://github.com/user-attachments/assets/bbeef4f2-439b-42c3-9821-0a8f1c46242d" />
+      <img width="128" alt="image" src="https://github.com/user-attachments/assets/bbeef4f2-439b-42c3-9821-0a8f1c46242d" />
     </td>
     <td>
       <h3>C# Visualizer</h3>
