@@ -41,7 +41,7 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
       <img src="https://github.com/user-attachments/assets/8661ec08-dd08-4bd2-abc9-f0e2d2f150b4" width="200"/>
     </td>
     <td>
-      <h2>Plantly</h2>
+      <h3>Plantly</h3>
       Keeping houseplants alive and thriving can be a challenge. With different watering schedules, sunlight requirements, and unexpected issues, it’s easy to lose track. Plantly is designed to help plant lovers stay organized and ensure their plants get the care they need.  
       <br><br>
       With personalized schedules, growth tracking, and a vast plant database, taking care of your houseplants has never been easier.
@@ -49,26 +49,32 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
       <a href="https://portfolio.fh-salzburg.ac.at/projects/2025-plantly">Plantly</a>
     </td>
   </tr>
-</table>
-
-### Flatmate
-
-<img width="2880" height="1620" alt="24v8wsuuhraemsienl6d7muczrhe" src="https://github.com/user-attachments/assets/53e39f38-32d1-4ccb-b82c-5f0247dcca57" />
-
-Remember that awkward silence when you walk into your shared apartment and everyone's staring? We've all heard the horror stories about flatmate disagreements and forgotten chores. Inspired by those less-than-ideal experiences, and believing there had to be a better way than what Lily Asshauer and Christine Bell might have faced, we developed Flatmate – the ultimate solution for drama-free shared living.
-
-[Flatmate](https://portfolio.fh-salzburg.ac.at/projects/2025-flatmate)
-
-### Mileva
-
-<img width="1834" height="774" alt="Frame 201" src="https://github.com/user-attachments/assets/3e52fab4-3820-4448-9b74-5caada74a74f" />
-
+  <tr>
+    <td width="220">
+      <img width="200" alt="24v8wsuuhraemsienl6d7muczrhe" src="https://github.com/user-attachments/assets/53e39f38-32d1-4ccb-b82c-5f0247dcca57" />
+    </td>
+    <td>
+      <h3>Flatmate</h3>
+     Remember that awkward silence when you walk into your shared apartment and everyone's staring? We've all heard the horror stories about flatmate disagreements and forgotten chores. Inspired by those less-than-ideal experiences, and believing there had to be a better way than what Lily Asshauer and Christine Bell might have faced, we developed Flatmate – the ultimate solution for drama-free shared living.
+      <br><br>
+      <a href="portfolio.fh-salzburg.ac.at/projects/2025-flatmate">Flatmate</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="220">
+      <img width="200" alt="Frame 201" src="https://github.com/user-attachments/assets/3e52fab4-3820-4448-9b74-5caada74a74f" />
+    </td>
+    <td>
+      <h3>Mileva</h3>
 Learn through interactive and playful experiences—find the ideal time to study and bring out the best in yourself!
-
-[Mileva](https://portfolio.fh-salzburg.ac.at/projects/2026-mileva)
-[Website](https://frontend-production-0e42.up.railway.app/)
-[Instagram](https://www.instagram.com/mileva_more_focus/)
-[Playstore](https://play.google.com/store/apps/details?id=com.fhs50537.Mileva)
+      <br><br>
+      <a href="portfolio.fh-salzburg.ac.at/projects/2026-mileva">Flatmate</a>
+      <a href="https://frontend-production-0e42.up.railway.app/">Website</a>
+      <a href="https://www.instagram.com/mileva_more_focus/">Instagram</a>
+      <a href="https://play.google.com/store/apps/details?id=com.fhs50537.Mileva">Play Store</a>
+    </td>
+  </tr>
+</table>
 
 ### C# Visualizer
 
