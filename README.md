@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff00f7&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff00f7&height=80&section=header"/>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=ff00f7&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I'm+Christine+Bell;Full-Stack+Developer;Always+building+something+cool.)](https://git.io/typing-svg)
 
