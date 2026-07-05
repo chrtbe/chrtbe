@@ -19,6 +19,9 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 
 ## Projects
 
+<div style="display:flex; background-color:red;">
+
+<div>
 <h3>Plantly</h3>
 
 <div style="display:flex; flex-direction:row; gap:20px; align-items:flex-start;">
@@ -30,6 +33,10 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
   </div>
 </div>
 
+</div>
+
+<div>
+
 <h3>Flatmate</h3>
 
 <div style="display:flex; flex-direction:row; gap:20px; align-items:flex-start;">
@@ -39,6 +46,10 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
       <a href="portfolio.fh-salzburg.ac.at/projects/2025-flatmate">Flatmate</a>
   </div>
 </div>
+
+</div>
+
+<div>
 
 <h3>Mileva</h3>
 
@@ -53,6 +64,10 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
   </div>
 </div>
 
+</div>
+
+<div>
+
 <h3>C# Visualizer</h3>
 
 <div style="display:flex; flex-direction:row; gap:20px; align-items:flex-start;">
@@ -63,6 +78,9 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
   </div>
 </div>
 
+</div>
+
+</div>
 
 ## A Bit About Me
 
