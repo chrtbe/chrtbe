@@ -35,7 +35,7 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 
 ## Projects
 
-<div style="display:flex; gap:20px; align-items:flex-start;">
+<div style="display:flex; flex-direction: row; gap:20px; align-items:flex-start;">
   <img src="https://github.com/user-attachments/assets/8661ec08-dd08-4bd2-abc9-f0e2d2f150b4" width="200"/>
   <div>
     <h3>Plantly</h3>
