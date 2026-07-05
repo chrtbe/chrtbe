@@ -1,20 +1,10 @@
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Christine+Bell" alt="Title GitHub Readme" />
+  </a>
+</h1>
+
 ## Hi there 👋
-
-<!--
-**chrtbe/chrtbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<img width="2880" height="1620" alt="um5jkc674tl829qo0nt74hs61byn" src="https://github.com/user-attachments/assets/166e873e-9135-4ab5-beec-d5d73b956a2d" />
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 I'm Christine, a software engineer based in Austria.
 
