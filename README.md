@@ -54,7 +54,7 @@ Remember that awkward silence when you walk into your shared apartment and every
 
 ### Mileva
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/c5242a9d-6763-47fd-8233-4ce2b6da151f" />
+<img width="1834" height="774" alt="Frame 201" src="https://github.com/user-attachments/assets/c8e0aaea-7898-45fd-ae21-84fcfee6f705" />
 
 Learn through interactive and playful experiences—find the ideal time to study and bring out the best in yourself!
 
