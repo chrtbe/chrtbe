@@ -19,6 +19,67 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 
 ## Projects
 
+<table>
+<tr>
+<td width="320" valign="top">
+
+### 🌱 Plantly
+
+<img src="https://github.com/user-attachments/assets/8661ec08-dd08-4bd2-abc9-f0e2d2f150b4" width="300"/>
+
+Keeping houseplants alive and thriving can be a challenge. Plantly helps you organize watering schedules, track growth, and discover care information for hundreds of plants.
+
+🔗 **Links**  
+• <a href="https://portfolio.fh-salzburg.ac.at/projects/2025-plantly">Project</a>
+
+</td>
+
+<td width="320" valign="top">
+
+### 🏠 Flatmate
+
+<img src="https://github.com/user-attachments/assets/53e39f38-32d1-4ccb-b82c-5f0247dcca57" width="300"/>
+
+Flatmate helps roommates stay organized with shared chores, reminders, and collaborative living tools.
+
+🔗 **Links**  
+• <a href="https://portfolio.fh-salzburg.ac.at/projects/2025-flatmate">Project</a>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🎓 Mileva
+
+<img src="https://github.com/user-attachments/assets/3e52fab4-3820-4448-9b74-5caada74a74f" width="300"/>
+
+Interactive learning app designed to help students build better study habits through playful experiences.
+
+🔗 **Links**  
+• <a href="https://portfolio.fh-salzburg.ac.at/projects/2026-mileva">Project</a>  
+• <a href="https://frontend-production-0e42.up.railway.app/">Website</a>  
+• <a href="https://www.instagram.com/mileva_more_focus/">Instagram</a>  
+• <a href="https://play.google.com/store/apps/details?id=com.fhs50537.Mileva">Play Store</a>
+
+</td>
+
+<td valign="top">
+
+### 💻 C# Visualizer
+
+<img src="https://github.com/user-attachments/assets/bbeef4f2-439b-42c3-9821-0a8f1c46242d" width="128"/>
+
+Visual Studio Code extension that visualizes the structure of C# projects as an interactive graph.
+
+🔗 **Links**  
+• <a href="https://marketplace.visualstudio.com/items?itemName=ChristineBell.csharpvisualizer">Marketplace</a>
+
+</td>
+</tr>
+</table>
+
 <div style="display:flex; background-color:red;">
 
 <div>
