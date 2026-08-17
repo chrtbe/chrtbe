@@ -76,13 +76,13 @@ Learn through interactive and playful experiences—find the ideal time to study
 <img src="https://img.shields.io/badge/Project-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://frontend-production-0e42.up.railway.app/">
+<!-- <a href="https://frontend-production-0e42.up.railway.app/"> -->
 <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
+<!-- </a> -->
 
-<a href="https://play.google.com/store/apps/details?id=com.fhs50537.Mileva">
+<!-- <a href="https://play.google.com/store/apps/details?id=com.fhs50537.Mileva"> -->
 <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white">
-</a>
+<!-- </a> -->
 
 <a href="https://www.instagram.com/mileva_more_focus/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
